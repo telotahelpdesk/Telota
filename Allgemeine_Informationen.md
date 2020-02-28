@@ -1,3 +1,6 @@
+https://www.andrerinas.de/tutorials/git-pull-erzwingen-force-lokale-dateien-zu-ueberschreiben.html
+
+
 *** regular expressions tester ***    
 https://regex101.com/  
 
